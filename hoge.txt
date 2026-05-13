@@ -1,2 +1,8 @@
 name?
+<<<<<<< HEAD
 C
+=======
+B
+A
+
+>>>>>>> 85d87f1e5cfbee8efac0595f072bd5b27e2f374b
